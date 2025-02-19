@@ -10,7 +10,7 @@ There may be duplicates in the original array.
 
 > **Input:** nums = [3,4,5,1,2] <br>
 > **Output:** true <br>
-> **Explanation:** `[1,2,3,4,5] is the original sorted array.<br>
+> **Explanation:** [1,2,3,4,5] is the original sorted array.<br>
 You can rotate the array by x = 3 positions to begin on the element of value 3: [3,4,5,1,2].
 
 **Example 2:**
