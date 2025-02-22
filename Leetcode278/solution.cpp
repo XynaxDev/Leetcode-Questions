@@ -15,7 +15,7 @@ public:
 
             // if (isBadVersion(mid)) { 
             //     ans = mid;
-            //     right = mid - 1; // uncomment this 
+            //     right = mid - 1; // uncomment this commented line of codes
             // }
             // else {
             //     left = mid + 1;
