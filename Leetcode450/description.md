@@ -44,4 +44,4 @@ Please notice that another valid answer is [5,2,6,null,4,null,7] and it's also a
  
 <br>
 
-**Follow up:** Could you solve it with time complexity O(height of tree)?
+**Follow up:** Could you solve it with time complexity `O(height of tree)`?
