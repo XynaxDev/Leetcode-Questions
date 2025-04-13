@@ -2,6 +2,12 @@
 
 Welcome to my LeetCode journey! I’m adding new LeetCode problems and their solutions here every day, coded in languages like Python, C++, and Java. This repo is all about sharpening problem-solving skills and mastering algorithms for coding interviews or just for fun.
 
+<p align="left">
+    <img src="https://img.shields.io/badge/LeetCode-Daily-DB1CFF?style=flat&logo=leetcode" alt="LeetCode Daily" />
+    <img src="https://img.shields.io/badge/Contributions-Welcome-181717?style=flat&logo=github" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Stars-%E2%98%85-3C8DAD?style=flat" alt="Stars" />
+</p>
+
 ## What’s Here
 - **Daily Problems**: Fresh LeetCode questions with clear, optimized solutions.
 - **Multiple Approaches**: Where possible, I include different ways to solve each problem (e.g., brute force, optimized, or tricky one-liners).
