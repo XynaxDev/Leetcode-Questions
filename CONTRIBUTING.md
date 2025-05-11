@@ -1,6 +1,6 @@
 # Contributing to LeetCode Questions & Solutions
 
-Thanks for joining this repo! It’s a hub for daily LeetCode problems and solutions to boost coding skills. We welcome contributions—new problems, better solutions, or fixes—to make this a top resource for coders.
+Thanks for checking out this repo! It’s a collection of daily LeetCode problems and solutions to sharpen coding skills. Contributions are welcome—whether it’s adding new problems, improving solutions, or fixing typos.
 
 <p align="left">
     <img src="https://img.shields.io/badge/Contributions-Welcome-DB1CFF?style=flat&logo=github" alt="Contributions Welcome" />
@@ -8,17 +8,6 @@ Thanks for joining this repo! It’s a hub for daily LeetCode problems and solut
     <img src="https://img.shields.io/badge/Issues-Open-3C8DAD?style=flat&logo=github" alt="Issues Open" />
 </p>
 
-## How to Get Started
-
-1. **Fork the Repository**:
-   - Click "Fork" at [github.com/XynaxDev/Leetcode-Questions](https://github.com/XynaxDev/Leetcode-Questions).
-
-2. **Clone Your Fork**:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Leetcode-Questions.git
-# Contributing to LeetCode Questions & Solutions
-
-Thanks for checking out this repo! It’s a collection of daily LeetCode problems and solutions to sharpen coding skills. Contributions are welcome—whether it’s adding new problems, improving solutions, or fixing typos.
 
 ## How to Get Started
 
